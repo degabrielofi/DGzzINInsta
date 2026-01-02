@@ -1,7 +1,4 @@
 pyautogui
-logging
-os
-win32gui
-time
-random
+pywin32
 keyboard
+pillow
